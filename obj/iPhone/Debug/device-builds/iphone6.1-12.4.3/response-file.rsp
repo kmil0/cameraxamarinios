@@ -1,0 +1,23 @@
+"--cache=/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache"
+"--dev=/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/bin/iPhone/Debug/device-builds/iphone6.1-12.4.3/Camera.app"
+--executable=Camera
+ --debug
+ --profiling
+ --linksdkonly
+--sdkroot=/Users/camilo.a.rodriguez/Downloads/Xcode.app/Contents/Developer
+--sdk=13.1
+--targetver=9.2
+ --aot-options=-O=float32
+ --http-message-handler=NSUrlSessionHandler
+ --abi=arm64
+"--symbollist=/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-symbols.list"
+ --dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Drawing.Common.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+ --target-framework=Xamarin.iOS,v1.0
+"--root-assembly=/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/bin/iPhone/Debug/Camera.exe"
+ 

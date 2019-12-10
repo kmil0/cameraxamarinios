@@ -1,0 +1,28 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/camilo.a.rodriguez/Downloads/4. Completed Camera Control/obj/iPhone/Debug/device-builds/iphone6.1-12.4.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
+Function=mono_profiler_init_log
